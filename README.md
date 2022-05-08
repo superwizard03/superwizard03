@@ -24,10 +24,6 @@ Also, I can do everything you need to build your app from the ground-up and get 
 
 <h2>ℹ️ &nbsp;Github Info</h2>
 	
-  <summary><b>🔎 Github Profile Details</b></summary>
-<p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=superwizard03&theme=github_dark" alt="superwizard03" align = "center"/></p>
-
-
   <summary><b>⚡ Github Stats</b></summary>
 <p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=superwizard03&hide_border=true&count_private=true&show_icons=true&theme=radical" alt="superwizard03" align = "center"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=superwizard03&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="superwizard03" align = "center"/></p>
