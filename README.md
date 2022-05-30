@@ -16,7 +16,7 @@ I can also provide everything needed to build apps from the ground-up and get it
 </p>
 
 <h2>🥇 Specialised in:</h2>
-<br>🔸 Languages: JavaScript, JSON, Bootstrap, HTML5, CSS3, ES6, SASS
+<br>🔸 Languages: JavaScript, Python, PHP, Python JSON, Bootstrap, HTML5, CSS3, ES6, SASS
 <br>🔸 Libraries/Frameworks/CMS: ReactJS, React-Native, Redux, Material-UI, VueJS, jQuery, Wordpress, Strapi
 <br>🔸 Applications: VS Code, GitHub, Git BASH, Figma, Visual Studio, Jira
 <br>🔸 Blockchain: Etherium, Web3.js, Smart Contract, Blockchain investment
