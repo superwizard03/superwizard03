@@ -9,10 +9,10 @@
 
 ## 👩  Who am I ?
 <p>
-As a senior full-stack engineer with 5+ years of experience a <b>bachelor's degree</b> in Computer Science.<br>
-I've been working on various projects as a <b>full-stack</b> developer in a variety of industries, ranging from startups to enterprise companies.<br>
-I bring strong skills in collaboration and detail-oriented processes, all of which I strive to use to increase productivity, organization, and efficiency. I specialize in React, Vue.js and Angular for the front-end development and Node.js for the back-end developer.<br>
-Also, I can do everything you need to build your app from the ground-up and get it on the market which means I can turn your conceptual ideal to real working software. 
+As a senior full-stack engineer with 5+ years of experience and a bachelor's degree in Computer Science.
+I've been working on various projects as full-stack developer in a variety of industries, ranging from startups to enterprise companies.
+I bring strong skills in collaboration and detail-oriented attitude, all of which I strive to use to increase productivity, organization, and efficiency. I am specialized in React, Vue.js and Angular for the front-end development and Node.js for the back-end developer.
+I can also provide everything needed to build apps from the ground-up and get it on the market, making your idea to a real working software.
 </p>
 
 <h2>🥇 Specialised in:</h2>
