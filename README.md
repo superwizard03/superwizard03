@@ -9,15 +9,15 @@
 
 ## 👩  Who am I ?
 <p>
-As a senior full-stack engineer with 5+ years of experience and a bachelor's degree in Computer Science.
+As a senior full-stack engineer with 10+ years of experience and a bachelor's degree in Computer Science.
 I've been working on various projects as full-stack developer in a variety of industries, ranging from startups to enterprise companies.
-I bring strong skills in collaboration and detail-oriented attitude, all of which I strive to use to increase productivity, organization, and efficiency. I am specialized in React, Vue.js and Angular for the front-end development and Node.js for the back-end developer.
+I bring strong skills in collaboration and detail-oriented attitude, all of which I strive to use to increase productivity, organization, and efficiency. I am specialized in React, Vue.js and Angular for the front-end development and Node.js for the back-end development.
 I can also provide everything needed to build apps from the ground-up and get it on the market, making your idea to a real working software.
 </p>
 
 <h2>🥇 Specialised in:</h2>
-<br>🔸 Languages: JavaScript, Python, PHP, Python JSON, Bootstrap, HTML5, CSS3, ES6, SASS
-<br>🔸 Libraries/Frameworks/CMS: ReactJS, React-Native, Redux, Material-UI, VueJS, jQuery, Wordpress, Strapi
+<br>🔸 Languages: JavaScript, Python, PHP, Erlang, Bootstrap, HTML5, CSS3, ES6, SASS
+<br>🔸 Libraries/Frameworks/CMS: ReactJS, React-Native, Redux, Material-UI, VueJS, AngularJS, Wordpress, Strapi, XMPP
 <br>🔸 Applications: VS Code, GitHub, Git BASH, Figma, Visual Studio, Jira
 <br>🔸 Blockchain: Etherium, Web3.js, Smart Contract, Blockchain investment
 <p>
