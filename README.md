@@ -13,11 +13,11 @@ Hello, I am a full-stack (Frontend and Backend) Developer who is passionate in c
 </p>
 
 <h2>🥇 Specialized in:</h2>
-<br>🔸 Languages: JavaScript, Python, PHP, Erlang, Bootstrap, HTML5, CSS3, ES6, SASS
-<br>🔸 Libraries/Frameworks/CMS: ReactJS, React-Native, Redux, Material-UI, VueJS, NodeJS, Express, Strapi, Django, Laravel Livewire, Wordpress
+<br>🔸 Languages: JavaScript, Python, PHP, Golang, Erlang, Bootstrap, HTML5, CSS3, ES6, SASS
+<br>🔸 Libraries/Frameworks/CMS: ReactJS, NextJS, MUI, React-Native, Flutter, VueJS, NodeJS, Express, Strapi, Django, Laravel Livewire, Wordpress
 <br>🔸 Applications: VS Code, GitHub, Git BASH, Figma, Visual Studio, Jira, Trello
 <br>🔸 Blockchain: Etherium, Web3.js, Smart Contract
-<br>🔸 Others: TailwindCSS, AlpineJS, CubeJS, XMPP, AWS Amplify, API Integration
+<br>🔸 Others: TailwindCSS, AlpineJS, CubeJS, XMPP, Unity, AWS Amplify, API Integration
 <p>
 
 <h2>ℹ️ &nbsp;Github Info</h2>
