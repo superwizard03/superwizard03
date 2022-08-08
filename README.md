@@ -9,17 +9,15 @@
 
 ## 👩  Who am I ?
 <p>
-As a senior full-stack engineer with 10+ years of experience and a bachelor's degree in Computer Science.
-I've been working on various projects as full-stack developer in a variety of industries, ranging from startups to enterprise companies.
-I bring strong skills in collaboration and detail-oriented attitude, all of which I strive to use to increase productivity, organization, and efficiency. I am specialized in React, Vue.js and Angular for the front-end development and Node.js for the back-end development.
-I can also provide everything needed to build apps from the ground-up and get it on the market, making your idea to a real working software.
+Hello, I am a full-stack (Frontend and Backend) Developer who is passionate in creating fast, consistent, error-free solutions that impress and aid clients in their online needs. I push myself to create high quality work while keeping an eye for the most minute details to ensure a product that won’t fail.
 </p>
 
 <h2>🥇 Specialized in:</h2>
 <br>🔸 Languages: JavaScript, Python, PHP, Erlang, Bootstrap, HTML5, CSS3, ES6, SASS
-<br>🔸 Libraries/Frameworks/CMS: ReactJS, React-Native, Redux, Material-UI, VueJS, AngularJS, Wordpress, Strapi, XMPP
-<br>🔸 Applications: VS Code, GitHub, Git BASH, Figma, Visual Studio, Jira
-<br>🔸 Blockchain: Etherium, Web3.js, Smart Contract, Blockchain investment
+<br>🔸 Libraries/Frameworks/CMS: ReactJS, React-Native, Redux, Material-UI, VueJS, NodeJS, Express, Strapi, Django, Laravel Livewire, Wordpress
+<br>🔸 Applications: VS Code, GitHub, Git BASH, Figma, Visual Studio, Jira, Trello
+<br>🔸 Blockchain: Etherium, Web3.js, Smart Contract
+<br>🔸 Others: TailwindCSS, AlpineJS, CubeJS, XMPP, AWS Amplify, API Integration
 <p>
 
 <h2>ℹ️ &nbsp;Github Info</h2>
