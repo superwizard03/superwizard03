@@ -15,7 +15,7 @@ I bring strong skills in collaboration and detail-oriented attitude, all of whic
 I can also provide everything needed to build apps from the ground-up and get it on the market, making your idea to a real working software.
 </p>
 
-<h2>🥇 Specialised in:</h2>
+<h2>🥇 Specialized in:</h2>
 <br>🔸 Languages: JavaScript, Python, PHP, Erlang, Bootstrap, HTML5, CSS3, ES6, SASS
 <br>🔸 Libraries/Frameworks/CMS: ReactJS, React-Native, Redux, Material-UI, VueJS, AngularJS, Wordpress, Strapi, XMPP
 <br>🔸 Applications: VS Code, GitHub, Git BASH, Figma, Visual Studio, Jira
